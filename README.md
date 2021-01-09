@@ -1,11 +1,11 @@
 # **Casa**
 
-### Leemos porque odiamos la realidad. 
-### Escribimos porque odiamos la realidad. 
-### Vemos películas porque odiamos la realidad. 
-### Vamos a conciertos porque odiamos la realidad. 
-###
-### … buscando respuestas a preguntas que no tienen respuesta. 
+> Leemos porque odiamos la realidad. 
+> Escribimos porque odiamos la realidad. 
+> Vemos películas porque odiamos la realidad. 
+> Vamos a conciertos porque odiamos la realidad. 
+>
+> … buscando respuestas a preguntas que no tienen respuesta. 
 
 <img align="right" src="https://raw.githubusercontent.com/lasanalfabetas/casa/master/Blogspot/Cuca1.jpeg" height="200" width="160">
 
