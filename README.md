@@ -18,4 +18,4 @@ Vamos a conciertos porque odiamos la realidad.
 
 
 *Las opiniones referenciadas en este sitio son propias de quién las escribe y no representan ningún colectivo. 
-Consideramos que el sesgo intelectual, es el cáncer de la intelectualidad misma. *
+Consideramos que el sesgo intelectual, es el cáncer de la intelectualidad misma.*
