@@ -9,6 +9,8 @@
 
 <img align="right" src="https://raw.githubusercontent.com/lasanalfabetas/casa/master/Blogspot/Cuca1.jpeg" height="200" width="160">
 
+![Image of Roach](https://raw.githubusercontent.com/lasanalfabetas/casa/master/Blogspot/Cuca1.jpeg)
+
 [Frases impopulares](https://raw.githubusercontent.com/lasanalfabetas/casa/master/Secciones/frasesimpopulares)
 
 [Antirrecomendados]()
